@@ -14,7 +14,10 @@ This project builds a QSAR (Quantitative Structure-Activity Relationship) model 
 
 ## 🧠 Model
 - Algorithm: Random Forest Regressor
-- Evaluation: R² score, MSE, scatter plot of predicted vs actual
+- Evaluation Results:
+  - **R² Score**: 0.16
+  - **Mean Squared Error (MSE)**: 83,756,896.63
+  - Visual Output: Scatter plot of predicted vs actual IC50 values
 
 ## 🔧 Tools & Libraries
 - Python, RDKit, pandas, scikit-learn, matplotlib
